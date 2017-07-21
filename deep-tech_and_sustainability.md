@@ -189,25 +189,10 @@ _A world with more inequality, where the 'long tail' is raised above the poverty
 
 # Github
 
+# Notes
+
 # Create a community that's different because we want to start from inspiration
 
 # Sustainability is a way of thinking
 
 # Sustainability is about plasticity in the brain to interact with other domains
-
-
-
-## Notes
-
-- give just one question
-
-- give a bunch of case examples / studies
-
-- be very clear on how these examples are complicated (trivial or not) or simple for the question you raised
-    - Thiel
-  - Something Or sent about a journalist interviewing libretarians pushing for more inequality, however keeping a leveraged long tail so to speak. The poor being actually above the poverty line. While the rich basically becoming a race of super mutant enhanced cyborgs ruling through untold fortune.
-  - Quantification of humans = good or bad?
-  - Inequality for humans = good or bad?
-- finally in the summary say the other things you'd want to speak about in a longer talk, very very briefly. this way you make sure you're understood first and that the theme and techniques and approach is understood, before you outline your whole spiel.
-
-- make the core question very very clear and focused. so in your case your'e focusing particularly on infrastructure, where ethical questions beome non-obvious. on large-scale macro-economic questions/changes/effects. on the issue of for-profit=bad, not for profit = good (the prevailing intuition, which breaks down on infrastructural questions).
